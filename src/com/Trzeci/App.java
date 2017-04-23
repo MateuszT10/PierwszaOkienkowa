@@ -10,6 +10,7 @@ import java.awt.event.ActionListener;
 public class App {
     private JButton Button;
     private JPanel panel;
+    private JTextArea textArea1;
 
     public App() {
         Button.addActionListener(new ActionListener() {
